@@ -1,2 +1,2 @@
-# Quizzy
-A Quiz Web Application based on major events occurred in 2023. 
+# quizzy
+A quiz web application based on major events occurred in 2023. 
